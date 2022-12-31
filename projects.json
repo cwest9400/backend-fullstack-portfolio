@@ -1,11 +1,13 @@
 [
     {
+      "id": "1",
       "name": "War",
       "live": "https://cwest9400.github.io/War/",
       "git": "https://github.com/cwest9400/War",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
+      "id": "2",
       "name": "DnD Class Guide",
       "live": "https://warm-selkie-a2ebf0.netlify.app/",
       "git": "https://github.com/cwest9400/dnd-classes",
