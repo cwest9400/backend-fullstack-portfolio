@@ -1,16 +1,110 @@
 [
-    {
-      "id": "1",
-      "name": "War",
-      "live": "https://cwest9400.github.io/War/",
-      "git": "https://github.com/cwest9400/War",
-      "image": "https://images.emojiterra.com/google/noto-emoji/v2.034/512px/2694.png"
-    },
-    {
-      "id": "2",
-      "name": "DnD Class Guide",
-      "live": "https://warm-selkie-a2ebf0.netlify.app/",
-      "git": "https://github.com/cwest9400/dnd-classes",
-      "image": "https://user-images.githubusercontent.com/116116801/206931992-f94b7019-3283-4c0f-a040-cbfda97cab48.png"
-    }
-  ]
+  {
+    "id": "6",
+    "name": "Future Project",
+    "live": "https://movie-buff-movie.netlify.app/",
+    "git: frontend": "https://github.com/cwest9400",
+    "git: backend": "https://github.com/cwest9400",
+    "image": "https://unsplash.com/photos/Ebro7KM8jxY",
+    "tag": "dev",
+    "desc": "full stack (MERN)",
+    "tech": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Bootstrap",
+      "Netlify",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Node.js",
+      "Heroku"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Future Project",
+    "live": "https://movie-buff-movie.netlify.app/",
+    "git: frontend": "https://github.com/cwest9400",
+    "git: backend": "https://github.com/cwest9400",
+    "image": "https://unsplash.com/photos/Ebro7KM8jxY",
+    "tag": "dev",
+    "desc": "full stack (MERN)",
+    "tech": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Bootstrap",
+      "Netlify",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Node.js",
+      "Heroku"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Future Project",
+    "live": "https://movie-buff-movie.netlify.app/",
+    "git: frontend": "https://github.com/cwest9400",
+    "git: backend": "https://github.com/cwest9400",
+    "image": "https://unsplash.com/photos/Ebro7KM8jxY",
+    "tag": "dev",
+    "desc": "full stack (MERN)",
+    "tech": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Bootstrap",
+      "Netlify",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Node.js",
+      "Heroku"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "MovieBuff",
+    "live": "https://movie-buff-movie.netlify.app/",
+    "git: frontend": "https://github.com/cwest9400/moviebuff-frontend",
+    "git: backend": "https://github.com/cwest9400/movie-backend",
+    "image": "https://images.emojiterra.com/google/noto-emoji/v2.034/512px/2694.png",
+    "tag": "dev",
+    "desc": "full stack (MERN)",
+    "tech": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Bootstrap",
+      "Netlify",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Node.js",
+      "Heroku"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "DnD Class Guide",
+    "live": "https://warm-selkie-a2ebf0.netlify.app/",
+    "git": "https://github.com/cwest9400/dnd-classes",
+    "image": "https://user-images.githubusercontent.com/116116801/206931992-f94b7019-3283-4c0f-a040-cbfda97cab48.png",
+    "tag": "dev",
+    "desc": "frontend",
+    "tech": ["React", "JavaScript", "CSS", "Netlify", "Node.js"]
+  },
+  {
+    "id": "1",
+    "name": "War",
+    "live": "https://cwest9400.github.io/War/",
+    "git": "https://github.com/cwest9400/War",
+    "image": "https://images.emojiterra.com/google/noto-emoji/v2.034/512px/2694.png",
+    "tag": "dev",
+    "desc": "vanilla JS game",
+    "tech": ["JavaScript", "CSS", "HTML"]
+  }
+]
