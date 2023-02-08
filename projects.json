@@ -52,15 +52,6 @@
     "tag": "dev",
     "desc": "frontend",
     "tech": ["React", "JavaScript", "CSS", "Netlify", "Node.js"]
-  },
-  {
-    "id": "1",
-    "name": "War",
-    "live": "https://cwest9400.github.io/War/",
-    "git": "https://github.com/cwest9400/War",
-    "image": "https://images.emojiterra.com/google/noto-emoji/v2.034/512px/2694.png",
-    "tag": "dev",
-    "desc": "vanilla JS game",
-    "tech": ["JavaScript", "CSS", "HTML"]
   }
+
 ]
