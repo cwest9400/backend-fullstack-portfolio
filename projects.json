@@ -9,16 +9,14 @@
     "tag": "dev",
     "desc": "full stack (MERN)",
     "tech": [
-      "React",
-      "JavaScript",
-      "CSS",
-      "JWT Auth",
-      "Netlify",
-      "Express",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Heroku"
+      "React, ",
+      "JavaScript, ",
+      "CSS, ",
+      "JWT Auth, ",
+      "Express, ",
+      "MongoDB, ",
+      "Mongoose, ",
+      "Node.js"
     ]
   },
   {
@@ -31,16 +29,15 @@
     "tag": "dev",
     "desc": "full stack (MERN)",
     "tech": [
-      "React",
-      "JavaScript",
-      "CSS",
-      "Bootstrap",
-      "Netlify",
-      "Express",
-      "MongoDB",
-      "Mongoose",
-      "Node.js",
-      "Heroku"
+      "React, ",
+      "JavaScript, ",
+      "CSS, ",
+      "Bootstrap, ",
+      "JWT Auth, ",
+      "Express, ",
+      "MongoDB, ",
+      "Mongoose, ",
+      "Node.js"
     ]
   },
   {
@@ -51,7 +48,7 @@
     "image": "https://user-images.githubusercontent.com/116116801/206931992-f94b7019-3283-4c0f-a040-cbfda97cab48.png",
     "tag": "dev",
     "desc": "frontend",
-    "tech": ["React", "JavaScript", "CSS", "Netlify", "Node.js"]
+    "tech": ["React, ", "JavaScript, ", "CSS, ", "Node.js"]
   }
 
 ]
