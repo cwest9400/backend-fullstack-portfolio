@@ -7,7 +7,8 @@
     "backend": "https://github.com/cwest9400/birthday_buddy_server",
     "image": "https://user-images.githubusercontent.com/116116801/216797186-06d1503b-916a-4efc-b07c-6d451a217804.png",
     "tag": "dev",
-    "desc": "full stack (MERN)",
+    "type": "full stack (MERN)",
+    "desc": "A mobile friendly app that helps you keep track of all your loved ones' birthdays, never missing a celebration again. Users can create, maintain and store the birthdays that are important to them",
     "tech": [
       "React, ",
       "JavaScript, ",
@@ -27,7 +28,8 @@
     "backend": "https://github.com/cwest9400/movie-backend",
     "image": "https://user-images.githubusercontent.com/116116801/211792104-3a069292-5fbb-42f7-8b88-f8a5ea865bf8.png",
     "tag": "dev",
-    "desc": "full stack (MERN)",
+    "type": "full stack (MERN)",
+    "desc": "A web app that allows users to rate & review the most action-packed and sweaty movies from the 80's and 90's. This is a fullstack application with a frontend built in React, coupled with an Express backend that serves JSON data and offers full CRUD functionality between three data models.",
     "tech": [
       "React, ",
       "JavaScript, ",
@@ -47,7 +49,8 @@
     "git": "https://github.com/cwest9400/dnd-classes",
     "image": "https://user-images.githubusercontent.com/116116801/206931992-f94b7019-3283-4c0f-a040-cbfda97cab48.png",
     "tag": "dev",
-    "desc": "frontend",
+    "type": "frontend",
+    "desc": "A front end web application that serves as a dungeons and dragons reference guide for new players.",
     "tech": ["React, ", "JavaScript, ", "CSS, ", "Node.js"]
   }
 
