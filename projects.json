@@ -29,7 +29,7 @@
     "image": "https://user-images.githubusercontent.com/116116801/211792104-3a069292-5fbb-42f7-8b88-f8a5ea865bf8.png",
     "tag": "dev",
     "type": "full stack (MERN)",
-    "desc": "A web app that allows users to rate & review the most action-packed and sweaty movies from the 80's and 90's. This is a fullstack application with a frontend built in React, coupled with an Express backend that serves JSON data and offers full CRUD functionality between three data models.",
+    "desc": "A web app that allows users to rate & review the most action-packed and sweaty movies from the 80's and 90's.",
     "tech": [
       "React, ",
       "JavaScript, ",
