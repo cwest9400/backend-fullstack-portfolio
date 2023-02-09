@@ -25,7 +25,7 @@
     "id": "3",
     "name": "MovieBuff",
     "live": "https://movie-buff-movie.netlify.app/",
-    "git": "https://github.com/cwest9400/moviebuff-frontend",
+    "git": "https://github.com/cwest9400/project-moviebuff-frontend/tree/main/frontend",
     "backend": "https://github.com/cwest9400/movie-backend",
     "image": "https://user-images.githubusercontent.com/116116801/211792104-3a069292-5fbb-42f7-8b88-f8a5ea865bf8.png",
     "tag": "dev",
