@@ -8,7 +8,7 @@
     "image": "https://user-images.githubusercontent.com/116116801/216797186-06d1503b-916a-4efc-b07c-6d451a217804.png",
     "tag": "dev",
     "type": "full stack (MERN)",
-    "desc": "A mobile friendly app that helps you keep track of all your loved ones' birthdays, never missing a celebration again. Users can create, maintain and store the birthdays that are important to them",
+    "desc": "A mobile friendly app that helps you keep track of all your loved ones' birthdays, never missing a celebration again.",
     "tech": [
       "React, ",
       "JavaScript, ",
